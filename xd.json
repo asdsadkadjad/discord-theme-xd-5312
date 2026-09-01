@@ -24,16 +24,16 @@
       "#0e0c0e"
     ],
     "BACKGROUND_ACCENT": [
-      "#CDAFF4"
+      "#C29DF1"
     ],
     "BACKGROUND_FLOATING": [
       "#0e0b0e"
     ],
     "BACKGROUND_MENTIONED": [
-      "#C19DF133"
+      "#C29DF133"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "#CDAFF4"
+      "#C29DF1"
     ],
     "MOBILE_COMMAND_BAR_BACKGROUND": [
       "#0e0c0e"
@@ -48,7 +48,7 @@
       "#00000000"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "#CDAFF4"
+      "#C29DF1"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#111111"
@@ -84,7 +84,7 @@
       "#3D2C37"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#CDAFF433"
+      "#C29DF133"
     ],
     "BACKGROUND_SECONDARY": [
       "#18141A"
@@ -132,7 +132,7 @@
       "#4d3939"
     ],
     "HEADER_PRIMARY": [
-      "#D8C1F6"
+      "#CDAFF4"
     ],
     "HEADER_SECONDARY": [
       "#FFEFFF"
@@ -144,7 +144,7 @@
       "#DEDCDE"
     ],
     "INTERACTIVE_MUTED": [
-      "#C19DF1"
+      "#C29DF1"
     ],
     "INTERACTIVE_NORMAL": [
       "#fdfdfd"
@@ -159,10 +159,10 @@
       "#1b1616"
     ],
     "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-      "#C19DF1"
+      "#C29DF1"
     ],
     "CONTROL_PRIMARY_BACKGROUND_ACTIVE": [
-      "#C19DF1"
+      "#C29DF1"
     ],
     "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
       "#2b232f"
@@ -183,7 +183,7 @@
       "#A39595"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#CDAFF4"
+      "#C29DF1"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#A39595"
@@ -198,7 +198,7 @@
       "#4D4141"
     ],
     "STATUS_DANGER": [
-      "#CDAFF4"
+      "#C29DF1"
     ],
     "STATUS_DANGER_BACKGROUND": [
       "#f44444"
@@ -213,13 +213,13 @@
       "#17131a"
     ],
     "POLLS_VICTOR_FILL": [
-      "#C19DF1"
+      "#C29DF1"
     ],
     "TEXT_LINK": [
-      "#D8C1F6"
+      "#CDAFF4"
     ],
     "TEXT_MUTED": [
-      "#D8C1F6"
+      "#CDAFF4"
     ],
     "TEXT_NORMAL": [
       "#FBFBFB"
@@ -228,7 +228,7 @@
       "#fbfbfb"
     ],
     "TEXT_SECONDARY": [
-      "#D8C1F6"
+      "#CDAFF4"
     ],
     "BG_MOD_FAINT": [
       "#4A3441"
@@ -393,27 +393,27 @@
   "plus": {
     "version": 0,
     "iconpack": "rosiecord-plumpy",
-    "mentionLineColor": "#C19DF1",
+    "mentionLineColor": "#C29DF1",
     "customIconOverlays": true,
     "customMessageMentionLineColor": true,
     "icons": {
       "ic_new_pins": [
-        "#C19DF1"
+        "#C29DF1"
       ],
       "reply_bar": [
-        "#C19DF1"
+        "#C29DF1"
       ],
       "mention_pill": [
-        "#C19DF1"
+        "#C29DF1"
       ],
       "mention_line": [
-        "#C19DF1"
+        "#C29DF1"
       ],
       "StatusOnline": [
-        "#C19DF1"
+        "#C29DF1"
       ],
       "StatusMobileOnline": [
-        "#C19DF1"
+        "#C29DF1"
       ],
       "StatusIdle": [
         "#FFEFFF"
@@ -425,7 +425,7 @@
         "#0e0c0e"
       ],
       "StatusStreaming": [
-        "#C19DF1"
+        "#C29DF1"
       ]
     },
     "themes+": {
