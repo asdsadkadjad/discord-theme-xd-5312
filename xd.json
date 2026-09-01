@@ -126,7 +126,7 @@
       "#0D0C0E"
     ],
     "CHANNEL_ICON": [
-      "#C29DF1"
+      "#9c9c9c"
     ],
     "EMBED_BACKGROUND": [
       "#4d3939"
@@ -138,7 +138,7 @@
       "#FFEFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#FFFFFF"
+      "#C29DF1"
     ],
     "INTERACTIVE_HOVER": [
       "#DEDCDE"
@@ -189,7 +189,7 @@
       "#A39595"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#F4F3F3"
+      "#C19DF1"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#18141a"
