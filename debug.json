@@ -60,7 +60,7 @@
       "#4b404f"
     ],
     "CHANNELS_DEFAULT": [
-      "#00FF00"
+      "#C29DF1"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#3D2C37"
@@ -138,16 +138,16 @@
       "#C19DF1"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#FFFF00"
+      "#C29DF1"
     ],
     "INTERACTIVE_HOVER": [
-      "#FF00FF"
+      "#DEDCDE"
     ],
     "INTERACTIVE_MUTED": [
-      "#00FFFF"
+      "#C29DF1"
     ],
     "INTERACTIVE_NORMAL": [
-      "#0000FF"
+      "#C29DF1"
     ],
     "MENTION_BACKGROUND": [
       "#ff63635e"
@@ -177,10 +177,10 @@
       "#00000000"
     ],
     "CONTROL_OVERLAY_PRIMARY_TEXT_DEFAULT": [
-      "#FFA500"
+      "#fdfdfd"
     ],
     "CONTROL_OVERLAY_SECONDARY_TEXT_DEFAULT": [
-      "#964B00"
+      "#A39595"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
       "#C29DF1"
@@ -204,7 +204,7 @@
       "#f44444"
     ],
     "STATUS_DANGER_TEXT": [
-      "#FFFFFF"
+      "#FA8072"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
       "#1c181f"
@@ -222,10 +222,10 @@
       "#C29DF1"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB"
+      "#FF1493"
     ],
     "TEXT_PRIMARY": [
-      "#fbfbfb"
+      "#ADFF2F"
     ],
     "TEXT_SECONDARY": [
       "#C19DF1"
@@ -356,8 +356,8 @@
     "PLUM_4": "#e5dcdc",
     "PLUM_6": "#cec6c6",
     "PLUM_9": "#a59090",
-    "PRIMARY_100": "#FFFFFF",
-    "PRIMARY_200": "#ffffff",
+    "PRIMARY_100": "#FFD700",
+    "PRIMARY_200": "#4B0082",
     "PRIMARY_360": "#A39595",
     "PRIMARY_460": "#2b232f",
     "PRIMARY_600": "#0d0c0e",
@@ -367,7 +367,7 @@
     "PRIMARY_700": "#2b232f",
     "PRIMARY_800": "#181419",
     "ROLE_DEFAULT": "#99aab5",
-    "WHITE_500": "#FEFFFF",
+    "WHITE_500": "#008080",
     "WHITE_630": "#776767"
   },
   "fonts": {
