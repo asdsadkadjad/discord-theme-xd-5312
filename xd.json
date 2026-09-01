@@ -147,7 +147,7 @@
       "#C29DF1"
     ],
     "INTERACTIVE_NORMAL": [
-      "#C29DF1"
+      "#F4F3F3"
     ],
     "MENTION_BACKGROUND": [
       "#ff63635e"
@@ -177,7 +177,7 @@
       "#00000000"
     ],
     "CONTROL_OVERLAY_PRIMARY_TEXT_DEFAULT": [
-      "#fdfdfd"
+      "#C29DF1"
     ],
     "CONTROL_OVERLAY_SECONDARY_TEXT_DEFAULT": [
       "#A39595"
